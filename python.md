@@ -37,7 +37,7 @@ while True:
 
 ## 5. 加强训练  
 
-**代码：**  
+**代码**  
 
 ```python  
 import machine  
@@ -59,7 +59,7 @@ while True:
         utime.sleep_ms(300)  # 延时300ms  
 ```  
 
-## 结果  
+**结果**
 
 上传代码后，按一下按键LED灯亮起，再按一下按键LED灯熄灭。实现这个功能的关键在于变量val，值得深入思考。
 
